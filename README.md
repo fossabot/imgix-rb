@@ -1,5 +1,6 @@
 <!-- ix-docs-ignore -->
 ![imgix logo](https://assets.imgix.net/sdk-imgix-logo.svg)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fimgix%2Fimgix-rb.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fimgix%2Fimgix-rb?ref=badge_shield)
 
 `imgix-rb` is a client library for generating image URLs with [imgix](https://www.imgix.com/). It is tested under Ruby versions `2.3.0`, `2.2.4`, `2.1.8`, `jruby-9.2.11.0`, and `rbx-3.107`.
 
@@ -223,3 +224,7 @@ client = Imgix::Client.new(domain: 'your-subdomain.imgix.net', include_library_p
 ## Contributing
 
 See the [contributing guide](Contributing.markdown).
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fimgix%2Fimgix-rb.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fimgix%2Fimgix-rb?ref=badge_large)
